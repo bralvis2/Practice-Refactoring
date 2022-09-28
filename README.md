@@ -1,4 +1,4 @@
-# UT-Bootcamp-Challenge-1
+# HTML, CSS, and Git: Code Refactor
 ## Challenge Overview
 In this week's challenge, our task was to use the starter code and modify it to meet certain criteria. The main purpose of this task was to refactor a code to improve its accessibility while maintaining its aesthetic elements. Making conscientious decisions about accessibility while writing code is important to ensure everyone has equal access to websites. Additionally, keeping in mind the **Scout Rule**, and leaving the code better than you found it. 
 
